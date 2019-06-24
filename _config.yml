@@ -26,9 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    - add-tf-js
-    - wc-api-test
-    - Bradley-D.github.io
+    # - project-name
 
 social_media:
   # behance: your_username
